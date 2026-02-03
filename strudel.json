@@ -1,13 +1,13 @@
 {
-  "letters_28_total": ["first_korean/11 vowels and 17 consonants, making a total of 28 letters.wav"],
-  "consonants": ["first_korean/Consonants.wav"],
-  "double_vowels": ["first_korean/Double vowels.wav"],
-  "hangul_king_sejong": ["first_korean/Hangul created by King Sejong of the Joseon dynasty..wav"],
-  "joseon_script_sounds": ["first_korean/Joseon Script and the Sounds of the Joseon Language.wav"],
-  "examine_joseon_sounds": ["first_korean/Now, if we examine the sounds used in the Joseon language..wav"],
-  "three_consonants_disappeared": ["first_korean/Over time, three consonants gradually disappeared.wav"],
-  "simple_vowels": ["first_korean/Simple vowels.wav"],
-  "letters_today": ["first_korean/The letters in use today are as follows..wav"],
-  "no_longer_necessary": ["first_korean/This letter is no longer necessary for representing spoken sounds.wav"],
-  "vowels": ["first_korean/Vowels.wav"]
+  "letters_28_total": ["11 vowels and 17 consonants, making a total of 28 letters.wav"],
+  "consonants": ["Consonants.wav"],
+  "double_vowels": ["Double vowels.wav"],
+  "hangul_king_sejong": ["Hangul created by King Sejong of the Joseon dynasty..wav"],
+  "joseon_script_sounds": ["Joseon Script and the Sounds of the Joseon Language.wav"],
+  "examine_joseon_sounds": ["/Now, if we examine the sounds used in the Joseon language..wav"],
+  "three_consonants_disappeared": ["Over time, three consonants gradually disappeared.wav"],
+  "simple_vowels": ["Simple vowels.wav"],
+  "letters_today": ["The letters in use today are as follows..wav"],
+  "no_longer_necessary": ["This letter is no longer necessary for representing spoken sounds.wav"],
+  "vowels": ["Vowels.wav"]
 }
