@@ -1,13 +1,13 @@
 {
-  "letters_28_total": ["letters_28_total.wav"],
-  "consonants": ["consonants.wav"],
-  "double_vowels": ["double_vowels.wav"],
-  "hangul_king_sejong": ["hangul_king_sejong.wav"],
-  "joseon_script_sounds": ["joseon_script_sounds.wav"],
-  "examine_joseon_sounds": ["examine_joseon_sounds.wav"],
-  "three_consonants_disappeared": ["three_consonants_disappeared.wav"],
-  "simple_vowels": ["simple_vowels.wav"],
-  "letters_today": ["letters_today.wav"],
-  "no_longer_necessary": ["no_longer_necessary.wav"],
-  "vowels": ["vowels.wav"]
+  "letters_28_total": ["letters_28_total.mp3"],
+  "consonants": ["consonants.mp3"],
+  "double_vowels": ["double_vowels.mp3"],
+  "hangul_king_sejong": ["hangul_king_sejong.mp3"],
+  "joseon_script_sounds": ["joseon_script_sounds.mp3"],
+  "examine_joseon_sounds": ["examine_joseon_sounds.mp3"],
+  "three_consonants_disappeared": ["three_consonants_disappeared.mp3"],
+  "simple_vowels": ["simple_vowels.mp3"],
+  "letters_today": ["letters_today.mp3"],
+  "no_longer_necessary": ["no_longer_necessary.mp3"],
+  "vowels": ["vowels.mp3"]
 }
